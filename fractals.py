@@ -1,8 +1,52 @@
-'''
 
 
 
-'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 import turtle
 
@@ -14,6 +58,36 @@ screen.setup(WIDTH,HEIGHT , startx= 50 , starty= 0)
 screen.screensize(3*WIDTH,3*HEIGHT)
 screen.bgcolor('black')
 screen.delay(0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #turtle settings
 
